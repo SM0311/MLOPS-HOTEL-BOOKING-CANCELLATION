@@ -6,3 +6,4 @@ pyyaml
 imbalanced_learn
 lightgbm
 mlflow
+flask
