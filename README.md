@@ -35,8 +35,8 @@ This project predicts whether a hotel booking will be canceled using an MLOps pi
 ## 🛠️ Getting Started
 ```bash
 # Clone repository
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://[github.com/your-repo.git](https://github.com/SM0311/MLOPS-HOTEL-BOOKING-CANCELLATION.git)
+cd [your-repo](https://github.com/SM0311/MLOPS-HOTEL-BOOKING-CANCELLATION.git)
 
 # Create virtual environment & install dependencies
 python -m venv venv
