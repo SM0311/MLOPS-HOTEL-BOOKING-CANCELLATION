@@ -1,5 +1,8 @@
 # 🏨 Hotel Reservation Cancellation Prediction
 
+## App
+![image](https://github.com/user-attachments/assets/ecca5b11-fbbd-445e-b3df-0d768910e35e)
+
 ## 🚀 Project Overview
 This project predicts whether a hotel booking will be canceled using an MLOps pipeline. It integrates data ingestion, preprocessing, model training, deployment, and a web application for user interaction.
 
